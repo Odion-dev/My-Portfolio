@@ -2,8 +2,6 @@
 
 Welcome to my personal Portfolio Website! This site showcases my skills, projects, certifications, and background as a Cloud Engineer & Developer.
 
-🔗 Live Demo: Visit Portfolio
-
 
 📌 Features
 
