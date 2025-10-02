@@ -1,6 +1,26 @@
-# My Portfolio — Starter Project
+# My Portfolio
 
-This is a starter portfolio site with multiple pages, responsive layout, basic animations, and JavaScript interactions (theme toggle, mobile nav, card flip, and form validation).
+Welcome to my personal Portfolio Website! This site showcases my skills, projects, certifications, and background as a Cloud Engineer & Developer.
+
+🔗 Live Demo: Visit Portfolio
+
+
+📌 Features
+
+Multi-page design (Home, About, Projects, Certifications, Contact)
+
+Responsive layout (works on desktop, tablet, and mobile)
+
+Interactive elements:
+
+Contact form with JavaScript validation
+
+Styled skill tags with hover effects
+
+Reusable components (header, footer, buttons)
+
+Clean UI with modern CSS (Flexbox + Grid + media queries)
+
 
 ## Structure
 - `index.html`, `about.html`, `projects.html`, `contact.html`
@@ -8,22 +28,19 @@ This is a starter portfolio site with multiple pages, responsive layout, basic a
 - `js/main.js` — site interactions (theme, nav, validation)
 - `images/` and `assets/` for media and downloads
 
-## Run locally
-Open `index.html` in your browser or serve the folder with a static server (recommended):
-npx http-server
-# or
-python -m http.server 8000
 
-## Deploy
-### GitHub Pages
-1. Create a repo and push the files.
-2. In repository **Settings → Pages**, set the source to `main` branch and root (`/`).
-3. Visit `https://<username>.github.io/<repo>/` after a minute.
+🚀 Deployment
 
-### Netlify / Vercel
-- Drag and drop the folder or connect your Git repo for automatic deploys.
+This portfolio is hosted on GitHub Pages.
+https://odion-dev.github.io/My-Portfolio/
 
-## Notes
-- Replace placeholders like `[Your Name]` and project links.
-- Add optimized images to the `images/` folder.
-- Test on multiple screen sizes and validate HTML/CSS.
+
+👨‍💻 Technologies Used
+
+HTML5 — Semantic structure
+
+CSS3 — Styling, Flexbox, Grid, Media Queries, Animations
+
+JavaScript (ES6+) — DOM manipulation, interactivity, form validation
+
+
